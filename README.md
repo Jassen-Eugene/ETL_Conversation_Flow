@@ -1,4 +1,4 @@
-# Veille Narrative en Temps Réel — Un Projet ETL Intelligent
+# Veille narrative en temps Réel — Un projet ETL intelligent
 
 Imaginez pouvoir capter **en temps réel** ce que des milliers de personnes pensent, ressentent ou questionnent autour d’un sujet. Imaginez transformer ce flux d’opinions en une **synthèse claire, catégorisée et exploitable**. Ce projet le rend possible.
 
